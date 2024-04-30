@@ -8,6 +8,3 @@ public interface MemberService {
     //회원조회
     Member findById(Long memberId);
 }
-
-
-
